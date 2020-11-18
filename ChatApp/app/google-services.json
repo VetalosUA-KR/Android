@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1065384423897",
+    "firebase_url": "https://chat-program-60ecd.firebaseio.com",
+    "project_id": "chat-program-60ecd",
+    "storage_bucket": "chat-program-60ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065384423897:android:0be3af9f3ce18f74dd29c8",
+        "android_client_info": {
+          "package_name": "com.vitalii.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065384423897-1vskujj3ib28g5saafg9ga2ojh812rcs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vitalii.chatapp",
+            "certificate_hash": "4dbe928a2f342004f7f14ebaeac4eaa6d3d64cf5"
+          }
+        },
+        {
+          "client_id": "1065384423897-kvf96n2ndfk6abap1i796p06ih130ucs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDym0gP-ZTBXyU96obN2PniwvmSXLzmbzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065384423897-kvf96n2ndfk6abap1i796p06ih130ucs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
